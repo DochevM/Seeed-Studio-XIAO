@@ -14,4 +14,4 @@
 | D 6            | RES            |               |                   |                    |
 | D 5            | BUSY           |               |                   |                    |
 
-![alt text](https://github.com/DochevM/Seeed-Studio-XIAO/blob/main/Documents/xiao_pinout.png)
+![alt text](https://github.com/DochevM/Seeed-Studio-XIAO/blob/main/Documents/Seeeduino-XIAO-pinout.jpg)
