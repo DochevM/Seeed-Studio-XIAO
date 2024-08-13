@@ -3,10 +3,10 @@
 
 ## Connections
 
-| Raspberry Pi Pico | Epaper Display |               | Raspberry Pi Pico |       DHT22        |
+| Seeduino XIAO  | Epaper Display |               | Seeduino XIAO |       DHT22        |
 | ----------------- | -------------- | ------------- | ----------------- | ------------------ |
 | 3.3V              | 3.3V           |               | 3.3V              | Vcc                |
-| GND               | GND            |               | GP15              | Data               |
+| GND               | GND            |               | D 2              | Data               |
 | GPIO 19           | SDI            |               | GND               | GND                |
 | GPIO 18           | SCK            |               |                   |                    |
 | GPIO 5            | CS             |               |                   |                    |
