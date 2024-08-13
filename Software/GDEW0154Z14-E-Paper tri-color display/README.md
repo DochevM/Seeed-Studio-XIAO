@@ -3,15 +3,15 @@
 
 ## Connections
 
-| Seeduino XIAO  | Epaper Display |               | Seeduino XIAO |       DHT22        |
+| Seeduino XIAO     | Epaper Display |               | Seeduino XIAO |       DHT22        |
 | ----------------- | -------------- | ------------- | ----------------- | ------------------ |
 | 3.3V              | 3.3V           |               | 3.3V              | Vcc                |
-| GND               | GND            |               | D 2              | Data               |
-| GPIO 19           | SDI            |               | GND               | GND                |
-| GPIO 18           | SCK            |               |                   |                    |
-| GPIO 5            | CS             |               |                   |                    |
-| GPIO 8            | D/C            |               |                   |                    |
-| GPIO 9            | RES            |               |                   |                    |
-| GPIO 7            | BUSY           |               |                   |                    |
+| D               | GND            |               | D 2              | Data               |
+| D 10           | SDI            |               | GND               | GND                |
+| D 8            | SCK            |               |                   |                    |
+| D 4            | CS             |               |                   |                    |
+| D 7            | D/C            |               |                   |                    |
+| D 6            | RES            |               |                   |                    |
+| D 5            | BUSY           |               |                   |                    |
 
 ![alt text](https://github.com/DochevM/Raspberry-Pi-Pico/blob/main/Documents/pico-pinout.png)
