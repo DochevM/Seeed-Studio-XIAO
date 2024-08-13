@@ -8,7 +8,7 @@ The [Seeed Studio XIAO SAMD21](https://wiki.seeedstudio.com/Seeeduino-XIAO/), wh
 - Multiple development interfaces: 11 digital/analog pins, 10 PWM Pins, 1 DAC output, 1 SWD Bonding pad interface, 1 I2C interface, 1 UART interface, 1 SPI interface.
 
   <p align="center">
-  <img width="600" height="330" src="https://github.com/DochevM/Seeed-Studio-XIAO/blob/main/Documents/xiao-img.jpg">
+  <img width="600" height="330" src="https://github.com/DochevM/Seeed-Studio-XIAO/blob/main/Documents/Seeduino_xiao_.png">
 </p>
 
 # SAMD21
@@ -31,6 +31,10 @@ The [Seeed Studio XIAO SAMD21](https://wiki.seeedstudio.com/Seeeduino-XIAO/), wh
 - **Debugging**: Serial Wire Debug (SWD)
 - **Programming**: In-System Programming (ISP)
 - **Safety**: Built-in watchdog timer, hardware CRC calculation
+
+
+# Embedded sensors and displays for RP2040
+- GDEW0154Z17-E-paper display
 
 
 
