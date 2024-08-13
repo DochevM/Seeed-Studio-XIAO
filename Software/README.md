@@ -1,4 +1,4 @@
-# Used sensors
+# Used sensors and displays
 
 ## DHT22-Digital temperature and humidity sensor
 [DHT22](https://store.comet.bg/Catalogue/Product/50013/) (or AM2302) is also a low cost digital temperature and humidity sensor, but it has a better accuracy and bigger range of the readings.
