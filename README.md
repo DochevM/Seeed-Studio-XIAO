@@ -8,7 +8,7 @@ The [Seeed Studio XIAO SAMD21](https://wiki.seeedstudio.com/Seeeduino-XIAO/), wh
 - Multiple development interfaces: 11 digital/analog pins, 10 PWM Pins, 1 DAC output, 1 SWD Bonding pad interface, 1 I2C interface, 1 UART interface, 1 SPI interface.
 
   <p align="center">
-  <img width="600" height="330" src="https://github.com/DochevM/Seeed-Studio-XIAO/blob/main/Documents/Seeduino_xiao_.png">
+  <img width="307" height="240" src="https://github.com/DochevM/Seeed-Studio-XIAO/blob/main/Documents/Seeduino_xiao_.png">
 </p>
 
 # SAMD21
