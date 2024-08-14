@@ -35,6 +35,6 @@ The [Seeed Studio XIAO SAMD21](https://wiki.seeedstudio.com/Seeeduino-XIAO/), wh
 
 # Embedded sensors and displays for RP2040
 - GDEW0154Z17-E-paper display
-
+- DHT22-Digital temperature and humidity sensor
 
 
