@@ -17,20 +17,20 @@ The [Seeed Studio XIAO SAMD21](https://wiki.seeedstudio.com/Seeeduino-XIAO/), wh
 
 # SAMD21 Microcontroller Key Features
 
-- **Core**: ARM Cortex-M0+, up to 48 MHz
-- **Memory**: Up to 256 KB Flash, 32 KB SRAM
-- **GPIO**: Up to 38 General-Purpose I/O pins
-- **Timers**: 16-bit and 32-bit timers
-- **ADC**: 12-bit Analog-to-Digital Converter, up to 20 channels
-- **DAC**: 12-bit Digital-to-Analog Converter
-- **Communication Interfaces**: UART (USART), SPI, I2C
-- **PWM**: Pulse Width Modulation outputs
-- **Clock System**: Integrated oscillators, 32.768 kHz RTC crystal
-- **Power Management**: 1.62V to 3.63V operating voltage, various low-power modes
-- **USB**: Full-speed USB 2.0
-- **Debugging**: Serial Wire Debug (SWD)
-- **Programming**: In-System Programming (ISP)
-- **Safety**: Built-in watchdog timer, hardware CRC calculation
+- Core: ARM Cortex-M0+, up to 48 MHz
+- Memory: Up to 256 KB Flash, 32 KB SRAM
+- GPIO: Up to 38 General-Purpose I/O pins
+- Timers: 16-bit and 32-bit timers
+- ADC: 12-bit Analog-to-Digital Converter, up to 20 channels
+- DAC: 12-bit Digital-to-Analog Converter
+- Communication Interfaces: UART (USART), SPI, I2C
+- PWM: Pulse Width Modulation outputs
+- Clock System: Integrated oscillators, 32.768 kHz RTC crystal
+- Power Management: 1.62V to 3.63V operating voltage, various low-power modes
+- USB: Full-speed USB 2.0
+- Debugging: Serial Wire Debug (SWD)
+- Programming: In-System Programming (ISP)
+- Safety: Built-in watchdog timer, hardware CRC calculation
 
 
 # Embedded sensors and displays for RP2040
